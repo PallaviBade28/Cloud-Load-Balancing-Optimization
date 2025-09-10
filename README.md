@@ -27,9 +27,13 @@ Language: Python
 Libraries: NumPy, Matplotlib, Pandas
 
 
-📈 Results
-Metaheuristic algorithms show significant improvement in throughput and fault tolerance compared to traditional balancing approaches.
-Detailed plots included for algorithm comparison
+## 📊 Results
+Comparison of algorithms on response time, throughput, and fault tolerance:
+
+![Algorithm Comparison](algorithm_comparison.png)
+![20 Nodes vs 200 Tasks](algorithm_comparison_20n_200t.png)
+![60 Nodes vs 1000 Tasks](algorithm_comparison_60n_1000t.png)
+
 
 
 
