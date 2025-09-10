@@ -27,7 +27,21 @@ Language: Python
 Libraries: NumPy, Matplotlib, Pandas
 
 
-## 📊 Results
+
+## 📂 Project Structure
+📦 Cloud-Load-Balancing-Optimization
+┣ 📜 comparison.py
+┣ 📜 lion_optimization.py
+┣ 📜 metaheuristic_algorithms.py
+┣ 📜 algorithm_comparison.png
+┣ 📜 algorithm_comparison_20n_200t.png
+┣ 📜 algorithm_comparison_60n_1000t.png
+┣ 📜 lion_optimization_results.png
+┗ 📜 README.md
+
+
+
+📊 Results
 Comparison of algorithms on response time, throughput, and fault tolerance:
 
 ![Algorithm Comparison](algorithm_comparison.png)
