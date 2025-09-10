@@ -33,23 +33,6 @@ Detailed plots included for algorithm comparison
 
 
 
-📂 Repository Structure
-📦 cloud-load-balancing-optimization
-
- ┣ 📜 lion_optimization.py
-
- ┣ 📜 bat_algorithm.py
-
- ┣ 📜 crow_algorithm.py
-
- ┣ 📜 butterfly_algorithm.py
-
- ┣ 📜 simulation.py
-
- ┣ 📜 results_visualization.ipynb
-
- ┗ 📜 README.md
-
  
 
 🔮 Future Work
